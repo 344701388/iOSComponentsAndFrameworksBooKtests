@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UIKitDynamicsViewController.h
 //  iOSComponentsAndFrameworksBooKtests
 //
 //  Created by User on 16/2/14.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
+@interface UIKitDynamicsViewController : UIViewController
+
 
 
 @end
-
